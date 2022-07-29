@@ -49,5 +49,6 @@ console.log(fullName);
 
 //print a line to the console that introduces the customer and says they live at the address variable
 
-console.log(`"Hello, my name is " + 'firstName' + "and I live at " + 'streetAddress' "."`);
+console.log("Hello, my name is " + firstName + " and I live at " + streetAddress + ".");
+
 
